@@ -1,3 +1,2 @@
 pyrogram
-pysqlite
 pyromod
